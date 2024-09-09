@@ -3,7 +3,7 @@
 }
 @font-face {
   font-family: 'kanit';
-  src: url('media/fonts/kanit-light-webfont.woff') format('woff');
+  src: url('../Sitio-Web-Tecnolog-a/media/fonts/kanit-light-webfont.woff') format('woff');
 }
 p {
   color: #36474f;
