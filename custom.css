@@ -1,6 +1,18 @@
+:root {
+  --main-color:#e8eff5;
+}
 p {
-  color: white;
+  color: #36474f;
 }
 body {
-  background-color: blue;
+  background-color: white;
+}
+.description {
+  background-color: var(--main-color);
+}
+.ubication {
+  background-color: var(--main-color);
+}
+.hours_of_attendance {
+  background-color: var(--main-color);
 }
