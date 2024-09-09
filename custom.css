@@ -1,6 +1,10 @@
 :root {
   --main-color:#e8eff5;
 }
+@font-face {
+  font-family: 'kanit';
+  src: url('media/fonts/kanit-light-webfont.woff') format('woff');
+}
 p {
   color: #36474f;
 }
