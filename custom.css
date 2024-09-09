@@ -16,6 +16,7 @@ p {
 .description {
   background-color: var(--main-color);
   border-radius: 15px;
+  padding: 20px;
 }
 .ubication {
   background-color: var(--main-color);
