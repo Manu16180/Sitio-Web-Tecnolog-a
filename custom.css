@@ -13,6 +13,7 @@ body {
 }
 .description {
   background-color: var(--main-color);
+  font-family: 'kanit';
 }
 .ubication {
   background-color: var(--main-color);
