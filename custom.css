@@ -20,9 +20,13 @@ p {
 }
 .ubication {
   background-color: var(--main-color);
+  border-radius: 15px;
+  padding: 20px;
 }
 .hours_of_attendance {
   background-color: var(--main-color);
+  border-radius: 15px;
+  padding: 20px;
 }
 h1 {
   text-align: center;
