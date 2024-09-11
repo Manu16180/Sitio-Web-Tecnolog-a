@@ -2,7 +2,7 @@
 <html lang="es">
     <head>
         <title>Bosque Fósil Punta Pelluco</title>
-        <link rel="stylesheet" href="custom.css">
+        <link rel="stylesheet" href="{{ "custom.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">
     </head>
     <body>
         <div class="main-page">
