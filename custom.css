@@ -31,3 +31,8 @@ p {
 h1 {
   text-align: center;
 }
+footer {
+  background-color: #2f2f2f;
+  padding: 20px;
+  color: white;
+}
