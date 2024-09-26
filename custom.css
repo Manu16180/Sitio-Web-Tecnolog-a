@@ -1,5 +1,6 @@
 :root {
   --main-color: #e8eff5;
+  --sec-color: #d1d6de;
 }
 @font-face {
   font-family: 'kanit';
@@ -41,4 +42,9 @@ footer {
 }
 .header {
   display: flex;
+}
+header {
+  background-color: var(--sec-color);
+  border-radius: 15px;
+  padding: 20px;
 }
